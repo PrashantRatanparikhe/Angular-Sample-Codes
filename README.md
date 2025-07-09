@@ -10,7 +10,6 @@ This project demonstrates a variety of Angular concepts, best practices, and sam
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
