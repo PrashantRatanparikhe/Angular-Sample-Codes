@@ -11,9 +11,6 @@ This project demonstrates a variety of Angular concepts, best practices, and sam
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
-## About
-
-This repository contains sample code and modules built with [Angular](https://angular.io/). It is intended for developers who want to explore Angular's core features, such as components, services, modules, routing, forms, and more.
 
 ## Features
 
@@ -72,9 +69,6 @@ angular-sample-code/
 - `services/`: Angular services for business logic and data access
 - `models/`: Data models and interfaces
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to follow Angular and TypeScript best practices.
 
 ---
 
