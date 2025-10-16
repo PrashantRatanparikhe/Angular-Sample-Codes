@@ -1,8 +1,8 @@
 # Hi
 
-A small React sample project / component set living in the `hti` folder of this repository.
+A small React sample project / component set living in the `Angular-Sample-Codes` folder of this repository.
 
-> Note: I couldn't read your repository contents due to a temporary API access error. This README is a general, ready-to-edit template. If "hti" stands for something specific (for example "HTML-to-Image", "High-Throughput Integration", etc.), tell me and I’ll update the descriptions and examples accordingly.
+> Note: I couldn't read your repository contents due to a temporary API access error. This README is a general, ready-to-edit template. If "Angular-Sample-Codes" stands for something specific (for example "HTML-to-Image", "High-Throughput Integration", etc.), tell me and I’ll update the descriptions and examples accordingly.
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ A small React sample project / component set living in the `hti` folder of this 
 
 ## Overview
 
-`hti` is a React sample that demonstrates one or more UI components and example pages. Use this module as a learning reference or starting point for small demos and experiments.
+`Angular-Sample-Codes` is a React sample that demonstrates one or more UI components and example pages. Use this module as a learning reference or starting point for small demos and experiments.
 
 ## Features
 
@@ -36,11 +36,11 @@ A small React sample project / component set living in the `hti` folder of this 
 
 ## Installation
 
-From the repository root (or inside the `hti` folder if it has its own package.json):
+From the repository root (or inside the `Angular-Sample-Codes` folder if it has its own package.json):
 
 ```bash
-# from repo root (adjust if hti is a subproject with its own package.json)
-cd hti
+# from repo root (adjust if Angular-Sample-Codes is a subproject with its own package.json)
+cd Angular-Sample-Codes
 npm install
 # or
 yarn install
@@ -84,7 +84,7 @@ yarn test
 
 A suggested structure — modify to reflect your project:
 
-- hti/
+- Angular-Sample-Codes/
   - public/            # static files (index.html, favicon)
   - src/
     - components/      # reusable React components
@@ -137,6 +137,6 @@ Maintainor: PrashantRatanparikhe (or replace with actual contact)
 ---
 
 If you want, I can:
-- Update this README to match the actual contents of hti (I can re-try reading the repo now),
+- Update this README to match the actual contents of Angular-Sample-Codes (I can re-try reading the repo now),
 - Add usage examples taken from specific files,
 - Create this README file in the repository for you (I can push a branch and open a PR). Which would you like next?
